@@ -53,6 +53,7 @@ header:
 * Rahul Banda (Fall 2009)
 * [Krishna Chaitanya Gunturu](http://www.linkedin.com/in/krishnagunturu) (Summer 2009)
 ## Senior Design Teams
+* [Andrew Bunting](https://www.linkedin.com/in/andrew-bunting-a465b421b/), [Ashton Parkey](https://www.linkedin.com/in/ashton-parkey-shentwu-b54b49250/), [Zoe Ward](https://www.linkedin.com/in/zoe-ward-03a952216/) (Spring 2025), _An Investigation into Process Improvements at a Job Shop Manufacturing Facility_
 * Jason Abernathy, Mason Feddersen, Kendel Hart, [Sam Koscelny](https://www.linkedin.com/in/sam-koscelny-2750b718a/) (Spring 2022), _Estimating Lumber Requirements and Minimizing Lumber Wastage in Zeeco Crating Operation_
 * [Cade Phelan](https://www.linkedin.com/in/cade-phelan/), [Victoria Richardson](https://www.linkedin.com/in/victoria-richardson-okstate/), [Kaustuvi Thapa](https://www.linkedin.com/in/kaustuvi/) (Spring 2021), _Cost-effective Freight Carrier Selection for ArcBest_
   * Top-5 finalist for the _2021 Outstanding ISE Capstone Senior Design Project Award_ given by the Institute of Industrial and Systems Engineers
