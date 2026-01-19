@@ -20,7 +20,7 @@ header:
 * [Babak Farmanesh](https://www.linkedin.com/in/babak-farmanesh-660009104) (Co-advisor, August 2018), Dissertation: _Efficient techniques for statistical modeling of calibration and spatio-temporal systems using Gaussian processes_
 * [Zhuqi Miao](https://webapps.newpaltz.edu/directory/profile/zhuqimiao) (May 2016), Dissertation: _Combinatorial and global optimization approaches to the maximum quasi-clique problem_
 * [Esmaeel Moradi](https://www.linkedin.com/in/esmaeel-moradi-ph-d-786b7748) (May 2015), Dissertation: _Decomposition algorithms for detecting low-diameter clusters in graphs_
-* [Juan Ma](https://www.linkedin.com/in/juan-ma-58763a38) (Co-advisor, December 2015), Dissertation: _Proactive approaches for system design under uncertainty applied to network synthesis and capacity planning_
+* [Juan Ma](https://www.linkedin.com/in/juan-m-58763a38/) (Co-advisor, December 2015), Dissertation: _Proactive approaches for system design under uncertainty applied to network synthesis and capacity planning_
 * [Foad Mahdavi Pajouh](https://faculty.stevens.edu/fmahdav1) (August 2012), Dissertation: _Polyhedral combinatorics, complexity & algorithms for k-clubs in graphs_
 ## Masters Students
 * [Clay Wyrrick]() (_In progress_)
