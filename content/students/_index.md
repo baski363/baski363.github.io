@@ -14,7 +14,7 @@ header:
   image: ""
 ---
 ## Doctoral Students
-* [Parisa Vaghfi Mohebbi](https://www.linkedin.com/in/parisa-v-mohebbi-15015b178/) (_In progress_)
+* [Parisa Vaghfi Mohebbi](https://www.linkedin.com/in/parisa-v-mohebbi-15015b178/) (Summer 2026), Dissertation: _Fractional programming framework for cluster discovery in healthcare analytics_
 * [Hao Pan](https://www.linkedin.com/in/hao-pan-9b905456) (December 2021), Dissertation: _Mining low-diameter clusters conserved in graph collections_
 * [Yajun Lu](https://yajunlu.com/) (July 2019), Dissertation: _Finding second-order clubs_
 * [Babak Farmanesh](https://www.linkedin.com/in/babak-farmanesh-660009104) (Co-advisor, August 2018), Dissertation: _Efficient techniques for statistical modeling of calibration and spatio-temporal systems using Gaussian processes_
@@ -23,7 +23,7 @@ header:
 * [Juan Ma](https://www.linkedin.com/in/juan-m-58763a38/) (Co-advisor, December 2015), Dissertation: _Proactive approaches for system design under uncertainty applied to network synthesis and capacity planning_
 * [Foad Mahdavi Pajouh](https://faculty.stevens.edu/fmahdav1) (August 2012), Dissertation: _Polyhedral combinatorics, complexity & algorithms for k-clubs in graphs_
 ## Masters Students
-* [Clay Wyrrick]() (_In progress_)
+* [Clay Wyrrick]() (Summer 2026), Thesis: _Integer programming for learning Bayesian networks from small sample ordered data_
 * [Garet Crispin](https://www.linkedin.com/in/garet-crispin/) (Spring 2026)
 * [Satarupa Nandy](https://www.linkedin.com/in/satarupa-nandy/) (Spring 2024)
 * [Sai Parvatharaju](https://www.linkedin.com/in/saivamsi05/) (Spring 2024)
