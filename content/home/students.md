@@ -11,5 +11,5 @@ title = "Current Students"
 subtitle = ""
 +++
 ## Doctoral Students
-* [Mo Rashidi]() 
+* [Mo Rashidi]
 > [***Former students ...***]({{< ref "/students/_index.md" >}})
