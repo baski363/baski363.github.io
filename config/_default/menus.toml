@@ -15,8 +15,10 @@
 
 [[main]]
   name = "Students"
-  url = "/students/"
+  url = "#students"
   weight = 40
+
+  # /students/
 
 [[main]]
   name = "Publications"
