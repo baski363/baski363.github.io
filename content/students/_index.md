@@ -14,6 +14,7 @@ header:
   image: ""
 ---
 ## Doctoral Students
+* [Mo Rashidi] (in progress)
 * [Parisa Vaghfi Mohebbi](https://www.linkedin.com/in/parisa-v-mohebbi-15015b178/) (Summer 2026), Dissertation: _Fractional programming framework for cluster discovery in healthcare analytics_
 * [Hao Pan](https://www.linkedin.com/in/hao-pan-9b905456) (December 2021), Dissertation: _Mining low-diameter clusters conserved in graph collections_
 * [Yajun Lu](https://yajunlu.com/) (July 2019), Dissertation: _Finding second-order clubs_
